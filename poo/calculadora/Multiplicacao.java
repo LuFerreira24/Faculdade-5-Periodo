@@ -1,3 +1,4 @@
+package calculadora;
 public class Multiplicacao {
     double a, b;
     double multiplicacao(){
